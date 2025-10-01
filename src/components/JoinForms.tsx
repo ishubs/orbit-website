@@ -53,7 +53,7 @@ function MerchantForm() {
     return (
       <div className="card p-6 grid md:grid-cols-2 gap-6 card-dark">
         <div className="md:col-span-2">
-          <p className="text-sm">Thanks! We'll reach out to schedule a demo.</p>
+          <p className="text-sm">Thanks! We&apos;ll reach out to schedule a demo.</p>
         </div>
       </div>
     );
@@ -142,7 +142,7 @@ function CustomerForm() {
     return (
       <div className="card p-6 grid md:grid-cols-2 gap-6 card-dark">
         <div className="md:col-span-2">
-          <p className="text-sm">You're on the waitlist! We'll email you soon.</p>
+          <p className="text-sm">You&apos;re on the waitlist! We&apos;ll email you soon.</p>
         </div>
       </div>
     );
